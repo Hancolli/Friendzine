@@ -4,7 +4,7 @@
 <style>
 h2 {text-align: left;}
 p {text-align: left;}
-div {text-align: left;}
+div {text-align: right;}
 </style>
 </head>
 <body>
