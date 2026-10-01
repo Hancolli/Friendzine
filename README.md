@@ -2,14 +2,14 @@
 <html>
 <head>
 <style>
-h1 {text-align: center;}
+h2 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
 </style>
 </head>
 <body>
 
-<h1>Ben Kling</h1>
+<h2>Ben Kling</h2>
 <p>at Radnor Lake</p>
 <div>listen below</div>
 
