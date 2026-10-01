@@ -10,8 +10,9 @@ div {text-align: right;}
 <body>
 
 <h2>Ben Kling</h2>
-<p>at Radnor Lake</p>
-<div>listen below</div>
+<p>At Radnor Lake
+Listen below.</p>
+
 
 </body>
 </html>
