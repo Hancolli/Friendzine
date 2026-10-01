@@ -1,9 +1,20 @@
 # Friendzine
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
 <body>
-<p style="text-align: justify;">
-   Ben Kling at Radnor Lake
-</p>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+<div>This is a div.</div>
+
 </body>
+</html>
 <video controls width="100%" height="auto">
   <source src="./audio/Friendzine_Radnor_BKling.mp4" type="video/mp4">
   Your browser does not support the video tag.
