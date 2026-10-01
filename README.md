@@ -9,9 +9,9 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-<div>This is a div.</div>
+<h1>Ben Kling</h1>
+<p>at Radnor Lake</p>
+<div>listen below</div>
 
 </body>
 </html>
