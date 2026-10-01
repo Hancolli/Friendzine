@@ -2,6 +2,7 @@
 <html>
 <head>
 <style>
+h1 {text-align: left:}  
 h2 {text-align: left;}
 p {text-align: center;}
 div {text-align: center;}
