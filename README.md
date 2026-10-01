@@ -1,2 +1,2 @@
 # Friendzine
-<img src="images/logo.png" alt="Description of the image">
+<img src="images/IMG_3559.jpg" alt="Hello World">
