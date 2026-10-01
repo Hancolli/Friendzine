@@ -1,2 +1,2 @@
 # Friendzine
-Friendzine Repo
+<img src="images/logo.png" alt="Description of the image">
