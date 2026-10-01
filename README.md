@@ -1,8 +1,8 @@
 # Friendzine
 <body>
-
+<p style="text-align: justify;">
    Ben Kling at Radnor Lake
-
+</p>
 </body>
 <video controls width="100%" height="auto">
   <source src="./audio/Friendzine_Radnor_BKling.mp4" type="video/mp4">
