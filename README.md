@@ -1,16 +1,16 @@
-# <h2>Friendzine</h2>
+# Friendzine
 <html>
 <head>
 <style>
-h1 {text-align: left;}
-  h2 {text-align: right;}
+h {text-align: right;}
+  h2 {text-align: left;}
 p {text-align: left;}
 div {text-align: right;}
 </style>
 </head>
 <body>
 
-<h1>Ben Kling</h1>
+<h2>Ben Kling</h2>
 <p>A rainy day at Radnor Lake.
 Listen below.</p>
 
@@ -23,7 +23,7 @@ Listen below.</p>
   Your browser does not support the video tag.
 </video>
 
-<h1>David Adams</h1>
+<h2>David Adams</h2>
 <p>"Tell Me What You Want"
 Listen below.</p>
 
