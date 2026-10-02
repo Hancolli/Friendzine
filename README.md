@@ -1,9 +1,9 @@
-# Friendzine
+# <h2>Friendzine</h2>
 <html>
 <head>
 <style>
 h1 {text-align: left;}
-  h2 {text-align: left;}
+  h2 {text-align: right;}
 p {text-align: left;}
 div {text-align: right;}
 </style>
@@ -23,7 +23,7 @@ Listen below.</p>
   Your browser does not support the video tag.
 </video>
 
-<h2>David Adams</h2>
+<h1>David Adams</h1>
 <p>"Tell Me What You Want"
 Listen below.</p>
 
