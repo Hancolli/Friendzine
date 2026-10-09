@@ -32,5 +32,5 @@ Listen below.</p>
 </audio>
 
 <h2>Kat Hallberg</h2>
-<p>This is a painting.
+<p>"It stuck out to me immediately because of how stark and modern it looked in its frame compared to the rest of the room."
 </p>
