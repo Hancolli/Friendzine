@@ -45,4 +45,5 @@ Listen below.</p>
 <p>This is a painting.</p>
 <p>Hey, and this?</p>
 <img src="images/hey and this.png" width="300" height="auto" alt="Hello World">
-
+<p>No, this is not a chunk of wall. This is a painting.</p>
+<p>There are so many facets of this amazing civilization that we'll never know because of would-be adventurers and tomb raiders who deal in illegal antiquities to make a living. But because of the archaeological expeditions of Joseph Lindon Smith and his colleagues, some of these precious glimpses of life in Ancient Egypt have been saved.</p>
