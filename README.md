@@ -32,6 +32,11 @@ Listen below.</p>
 </audio>
 
 <h2>Kat Hallberg</h2>
+
 <p>"It stuck out to me immediately because of how stark and modern it looked in its frame compared to the rest of the room."
 </p>
+
 <img src="images/in the gallery.png" width="300" height="auto" alt="Hello World">
+
+<p>Joseph Lindon Smith was born in Rhode Island and studied art at Tufts before moving to Paris with one of his buddies and studying at an academy there. He loved travelling and was most inspired by painting the things and places he saw. He decided to visit Egypt for the first time in 1898 and totally fell in love.</p>
+
