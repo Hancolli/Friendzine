@@ -44,6 +44,7 @@ Listen below.</p>
 <img src="images/what blows my mind.png" width="300" height="auto" alt="Hello World">
 <p>This is a painting.</p>
 <p>Hey, and this?</p>
-<img src="images/hey and this.png" width="300" height="auto" alt="Hello World">
+<img src="images/hey and this.png" width="auto" height="450" alt="Hello World">
 <p>No, this is not a chunk of wall. This is a painting.</p>
 <p>There are so many facets of this amazing civilization that we'll never know because of would-be adventurers and tomb raiders who deal in illegal antiquities to make a living. But because of the archaeological expeditions of Joseph Lindon Smith and his colleagues, some of these precious glimpses of life in Ancient Egypt have been saved.</p>
+<img src="images/joseph lindon smith.png" width="300" height="auto" alt="Hello World">
