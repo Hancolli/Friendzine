@@ -44,3 +44,5 @@ Listen below.</p>
 <img src="images/what blows my mind.png" width="300" height="auto" alt="Hello World">
 <p>This is a painting.</p>
 <p>Hey, and this?</p>
+<img src="images/hey and this.png" width="300" height="auto" alt="Hello World">
+
