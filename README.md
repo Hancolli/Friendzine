@@ -32,5 +32,5 @@ Listen below.</p>
 </audio>
 
 <h2>Kat Hallberg</h2>
-<p>"This is a Painting"
-Listen below.</p>
+<p>This is a painting.
+</p>
