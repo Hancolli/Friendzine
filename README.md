@@ -34,4 +34,4 @@ Listen below.</p>
 <h2>Kat Hallberg</h2>
 <p>"It stuck out to me immediately because of how stark and modern it looked in its frame compared to the rest of the room."
 </p>
-<img src="images/in the gallery.png" alt="Hello World">
+<img src="images/in the gallery.png" style="width: 300; height: 200; alt="Hello World">
