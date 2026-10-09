@@ -40,3 +40,4 @@ Listen below.</p>
 
 <p>Joseph Lindon Smith was born in Rhode Island and studied art at Tufts before moving to Paris with one of his buddies and studying at an academy there. He loved travelling and was most inspired by painting the things and places he saw. He decided to visit Egypt for the first time in 1898 and totally fell in love.</p>
 
+<p>What blows my mind are his paintings of the reliefs they would find. See this? </p>
